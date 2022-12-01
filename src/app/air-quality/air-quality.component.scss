@@ -1,0 +1,31 @@
+.container-one{
+    background-color: #999999;
+    width: 300px;
+    height: 200px;
+    margin-left: 50px;
+    padding-left: 30px;
+    border-radius: 20px;
+    padding-top: 1px;
+}
+.container-buttom-row{
+    display: flex;
+    flex-direction: row;
+    /* padding-top: 40px; */
+}
+.dot-green{
+    border-radius: 50%;
+    width: 90px;
+    height: 80px; 
+    padding: 8px;
+    background: #6DD0A5;
+    color: white;
+    text-align: center;
+    font: 58px Arial, sans-serif;
+ }
+ .add-hr{
+    margin-block-start: -0.9em;
+    margin-inline-start: 34px;
+    margin-inline-end: -45px;
+    opacity: 0.2;
+    margin-top: -7px;
+}

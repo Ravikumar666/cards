@@ -1,0 +1,14 @@
+.container-buttom-row{
+    display: flex;
+    flex-direction: row;
+    /* padding-top: 40px; */
+}
+.audio_button{
+    background-color: #6DD0A5;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 5px;  
+}
